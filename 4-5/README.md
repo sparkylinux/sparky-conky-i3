@@ -1,7 +1,7 @@
 Sparky Conky i3
 This package provides a configuration file for conky of the Sparky i3 edition. 
 
-Copyright (C) 2016-2021 Paweł Pijanowski
+Copyright (C) 2016-2018 Paweł Pijanowski
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

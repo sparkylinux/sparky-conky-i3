@@ -18,7 +18,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Dependencies:
 -------------
-conky
+conky (>= 1.11.0)
 
 Install:
 -------------
